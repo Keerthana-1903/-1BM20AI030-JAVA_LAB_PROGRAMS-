@@ -1,3 +1,4 @@
+//2b.Java program
 abstract class shape{
 double area;
 abstract void call_area();
